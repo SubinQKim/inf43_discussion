@@ -1,0 +1,95 @@
+https://github.com/SubinQKim
+commit 71818a9c2d1045c46d8eadc345338c7bd280d424
+Author: Subin Kim <subinlk@uci.edu>
+Date:   Sun Oct 30 15:24:25 2022 -0700
+
+    Re-adding file2.txt
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..cf61b5f
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2025 Software Engineer
+\ No newline at end of file
+
+commit 1e73212dbf3bc57e2ed37d70dd8d194fddd45441
+Author: Subin Kim <subinlk@uci.edu>
+Date:   Sun Oct 30 15:21:19 2022 -0700
+
+    Deleting file2.txt
+
+diff --git a/file1.txt b/file1.txt
+index b84c625..c20dd6e 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1,2 @@
+-Subin Kim Computer Science
+\ No newline at end of file
++Subin Kim Computer Science
++Green
+\ No newline at end of file
+diff --git a/file2.txt b/file2.txt
+deleted file mode 100644
+index cf61b5f..0000000
+--- a/file2.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-2025 Software Engineer
+\ No newline at end of file
+
+commit 0a5ffe8e829ac4857ea148cd22e3219682a86aa0
+Author: Subin Kim <subinlk@uci.edu>
+Date:   Sun Oct 30 15:18:39 2022 -0700
+
+    Added file with graduation date and job title
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..cf61b5f
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2025 Software Engineer
+\ No newline at end of file
+
+commit 16a06e36f024c0e4cd268a6a13246beffc27b3d4
+Author: Subin Kim <subinlk@uci.edu>
+Date:   Sun Oct 30 15:16:25 2022 -0700
+
+    Now has my major
+
+diff --git a/file1.txt b/file1.txt
+index 14e779a..b84c625 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-Subin Kim 73638401
+\ No newline at end of file
++Subin Kim Computer Science
+\ No newline at end of file
+
+commit cdaba4d0c6cc26d374206b380e66a9db6652bbff
+Author: Subin Kim <subinlk@uci.edu>
+Date:   Sun Oct 30 15:13:44 2022 -0700
+
+    added info
+
+diff --git a/file1.txt b/file1.txt
+index e69de29..14e779a 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -0,0 +1 @@
++Subin Kim 73638401
+\ No newline at end of file
+
+commit 8f7e0f13fbecc5651b636b2d7d328673de2ffabc
+Author: Subin Kim <subinlk@uci.edu>
+Date:   Fri Oct 28 12:16:44 2022 -0700
+
+    Committing a new file with my name.
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..e69de29
